@@ -1,0 +1,5 @@
+C:\my_copy\CSVParser\CSVParser\bin\Debug\CSVParser.dll
+C:\my_copy\CSVParser\CSVParser\bin\Debug\CSVParser.pdb
+C:\my_copy\CSVParser\CSVParser\obj\Debug\CSVParser.dll
+C:\my_copy\CSVParser\CSVParser\obj\Debug\CSVParser.pdb
+C:\my_copy\CSVParser\CSVParser\obj\Debug\Services.csprojResolveAssemblyReference.cache

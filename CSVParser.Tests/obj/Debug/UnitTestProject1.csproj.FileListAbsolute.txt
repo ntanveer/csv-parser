@@ -1,0 +1,9 @@
+C:\my_copy\CSVParser\UnitTestProject1\obj\Debug\UnitTestProject1.csprojResolveAssemblyReference.cache
+C:\my_copy\CSVParser\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+C:\my_copy\CSVParser\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+C:\my_copy\CSVParser\UnitTestProject1\bin\Debug\CSVParser.dll
+C:\my_copy\CSVParser\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\my_copy\CSVParser\UnitTestProject1\bin\Debug\CSVParser.pdb
+C:\my_copy\CSVParser\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.xml
+C:\my_copy\CSVParser\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+C:\my_copy\CSVParser\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

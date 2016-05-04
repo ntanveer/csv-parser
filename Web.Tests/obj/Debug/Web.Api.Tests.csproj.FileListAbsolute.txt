@@ -1,0 +1,4 @@
+C:\my_copy\CSVParser\Web.Api.Tests\bin\Debug\Web.Tests.dll
+C:\my_copy\CSVParser\Web.Api.Tests\bin\Debug\Web.Tests.pdb
+C:\my_copy\CSVParser\Web.Api.Tests\obj\Debug\Web.Tests.dll
+C:\my_copy\CSVParser\Web.Api.Tests\obj\Debug\Web.Tests.pdb

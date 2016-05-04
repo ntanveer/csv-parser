@@ -1,0 +1,12 @@
+C:\my_copy\CSVParser\CSVParser\obj\Debug\Service.csprojResolveAssemblyReference.cache
+C:\my_copy\CSVParser\CSVParser\bin\Debug\Core.dll
+C:\my_copy\CSVParser\CSVParser\bin\Debug\Newtonsoft.Json.dll
+C:\my_copy\CSVParser\CSVParser\bin\Debug\System.Net.Http.Formatting.dll
+C:\my_copy\CSVParser\CSVParser\bin\Debug\TechXplorers.ArgumentValidation.dll
+C:\my_copy\CSVParser\CSVParser\bin\Debug\Core.pdb
+C:\my_copy\CSVParser\CSVParser\bin\Debug\Newtonsoft.Json.xml
+C:\my_copy\CSVParser\CSVParser\bin\Debug\System.Net.Http.Formatting.xml
+C:\my_copy\CSVParser\CSVParser\bin\Debug\Service.dll
+C:\my_copy\CSVParser\CSVParser\bin\Debug\Service.pdb
+C:\my_copy\CSVParser\CSVParser\obj\Debug\Service.dll
+C:\my_copy\CSVParser\CSVParser\obj\Debug\Service.pdb

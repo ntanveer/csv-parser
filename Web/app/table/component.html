@@ -1,0 +1,35 @@
+<!-- TODO: the th and td below can be dynamic rather than bound to a hard coded.
+    Can repeat through the th first to get the list of items and then use those names to get values from the other array -->
+<table class="striped centered responsive-table">
+    <thead>
+      <tr>
+          <th>First Name</th>
+          <th>Last Name</th>
+          <th>Company Name</th>
+          <th>Address</th>
+          <th>City</th>
+          <th>County</th>
+          <th>Postal</th>
+          <th>Phone1</th>
+          <th>Phone2</th>
+          <th>Email</th>
+          <th>Web</th>
+      </tr>
+    </thead>
+
+    <tbody>
+        <tr ng-repeat="item in items">
+            <td >{{item.FirstName}}</td>
+            <td>{{item.LastName}}</td>
+            <td>{{item.CompanyName}}</td>
+            <td>{{item.Address}}</td>
+            <td>{{item.City}}</td>
+            <td>{{item.County}}</td>
+            <td>{{item.Postal}}</td>
+            <td>{{item.Phone1}}</td>
+            <td>{{item.Phone2}}</td>
+            <td>{{item.Email}}</td>
+            <td>{{item.Web}}</td>
+        </tr>
+    </tbody>
+</table>

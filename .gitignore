@@ -3,3 +3,13 @@
 # Example .gitignore files: https://github.com/github/gitignore
 /bower_components/
 /node_modules/
+/Core/bin/
+/Core/obj/
+/CSVParser/bin/
+/CSVParser/obj/
+/CSVParser.Tests/bin/
+/CSVParser.Tests/obj/
+/Web/obj/
+/Web/bin/
+/Web.Tests/bin/
+/Web.Tests/obj/

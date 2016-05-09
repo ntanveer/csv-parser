@@ -19,3 +19,17 @@ C:\my_copy\CSVParser\CSVParser.Tests\bin\Debug\Core.pdb
 C:\my_copy\CSVParser\CSVParser.Tests\bin\Debug\Newtonsoft.Json.xml
 C:\my_copy\CSVParser\CSVParser.Tests\bin\Debug\Service.dll
 C:\my_copy\CSVParser\CSVParser.Tests\bin\Debug\Service.pdb
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\UnitTestProject1.dll
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\UnitTestProject1.pdb
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\Service.dll
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\TechXplorers.ArgumentValidation.dll
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\Core.dll
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\System.Net.Http.Formatting.dll
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\Newtonsoft.Json.dll
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\Service.pdb
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\Core.pdb
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\System.Net.Http.Formatting.xml
+C:\my_copy\csv-parser\CSVParser.Tests\bin\Debug\Newtonsoft.Json.xml
+C:\my_copy\csv-parser\CSVParser.Tests\obj\Debug\Services.Tests.csprojResolveAssemblyReference.cache
+C:\my_copy\csv-parser\CSVParser.Tests\obj\Debug\UnitTestProject1.dll
+C:\my_copy\csv-parser\CSVParser.Tests\obj\Debug\UnitTestProject1.pdb
